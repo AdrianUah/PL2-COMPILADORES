@@ -1,0 +1,18 @@
+"Mapa de la Isla Misteriosa"
+
+Zona "Bahia Escondida" limites 1,1 , 5,5 , 2,2
+Zona "Isla Perdida" limites 6,6 , 9,9 , 14,15
+
+"El Perla Negra" te da 100 puntos
+"El Perla Negra" esta enterrado en 1,3 , 4,5 , 2,2
+
+"La Galera Roja" te da 50 puntos
+"La Galera Roja" esta enterrado en 2,1
+
+"El Esmeralda" te da 60 puntos
+"El Esmeralda" esta enterrado en 5,4 , 3,1
+
+"El Santa Maria" te da 80 puntos
+"El Santa Maria" esta enterrado en 2,3
+
+"Fin del mapa"
